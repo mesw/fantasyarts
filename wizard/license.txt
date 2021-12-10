@@ -1,3 +1,4 @@
 "Wizard" by Blarumyrran (blarumyrran@gmail.com) licensed CC-0: https://opengameart.org/content/wizard-0
 
-flipped by mesw licensed under CC-0
+flipped and added transparency by mesw licensed under CC-0
+
