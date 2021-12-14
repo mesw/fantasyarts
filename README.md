@@ -5,7 +5,7 @@ There is some art that was created by other artists, provided under open source 
 
 Some art in this repository was created with an AI.
 
-The scripts for creating the art [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mesw/fantasyarts/blob/main/vqgan+step/mesw_card_image_generator_with_vqgan+clip.ipynb) and upscaling the art [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mesw/fantasyarts/blob/main/isr/mesw_ISR_Prediction.ipynb) are subject to the license of the scripts they were based on.
+The scripts for creating the art [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mesw/fantasyarts/blob/main/vqgan%2Bstep/mesw_card_image_generator_with_vqgan%2Bclip.ipynb) and upscaling the art [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mesw/fantasyarts/blob/main/isr/mesw_ISR_Prediction.ipynb) are subject to the license of the scripts they were based on.
 
 
 The game can be played here: [FantasyCards](https://mesw.github.io/fantasycards/build/FantasyCards2.html)
